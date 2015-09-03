@@ -1,0 +1,6 @@
+Learning database types & structures:
+
+Lesson 1: using sqlite3 to manipulate data and tables
+Lesson2: removed sqlite3, added psql via terminal and PSequel GUI to refactor the same data.
+    : Also imported Northwind.postgre.sql file into PSequel
+Lesson3: Added npm Async since sqlite3 we used serializer
